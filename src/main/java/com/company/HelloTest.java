@@ -10,5 +10,6 @@ public class HelloTest {
         System.out.println("hot fix test");
         System.out.println("Push test");
         System.out.println("Pull test");
+        System.out.println("Pull gitee test");
     }
 }
