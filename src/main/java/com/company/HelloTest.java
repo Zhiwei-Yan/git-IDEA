@@ -9,6 +9,6 @@ public class HelloTest {
         System.out.println("master test");
         System.out.println("hot fix test");
         System.out.println("Push test");
-
+        System.out.println("Pull test");
     }
 }
