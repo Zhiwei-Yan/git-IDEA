@@ -6,6 +6,7 @@ public class HelloTest {
         System.out.println("hello IEDA Git2");
         System.out.println("hello IEDA Git3");
         System.out.println("hello IEDA Git4");
+        System.out.println("hot fix test");
 
     }
 }
